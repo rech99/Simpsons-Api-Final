@@ -74,6 +74,7 @@ namespace web_api_simpsons.Controllers
                     FirstName = reader.GetString(reader.GetOrdinal("firstname")),
                     SecondName = reader.GetString(reader.GetOrdinal("secondname")),
                     LastName = reader.GetString(reader.GetOrdinal("lastname")),
+                    Age = reader.GetInt32(reader.GetOrdinal("age")),
                     Description = reader.GetString(reader.GetOrdinal("descp"))
                 };
                 characters.Add(character);

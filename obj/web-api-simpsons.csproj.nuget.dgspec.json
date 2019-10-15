@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jesus\\documents\\web-api-simpsons\\web-api-simpsons.csproj": {}
+    "C:\\Users\\Hector\\Documents\\api-simpsons\\web-api-simpsons.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jesus\\documents\\web-api-simpsons\\web-api-simpsons.csproj": {
+    "C:\\Users\\Hector\\Documents\\api-simpsons\\web-api-simpsons.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jesus\\documents\\web-api-simpsons\\web-api-simpsons.csproj",
+        "projectUniqueName": "C:\\Users\\Hector\\Documents\\api-simpsons\\web-api-simpsons.csproj",
         "projectName": "web-api-simpsons",
-        "projectPath": "C:\\Users\\Jesus\\documents\\web-api-simpsons\\web-api-simpsons.csproj",
-        "packagesPath": "C:\\Users\\Jesus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jesus\\documents\\web-api-simpsons\\obj\\",
+        "projectPath": "C:\\Users\\Hector\\Documents\\api-simpsons\\web-api-simpsons.csproj",
+        "packagesPath": "C:\\Users\\Hector\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hector\\Documents\\api-simpsons\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Jesus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Hector\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
